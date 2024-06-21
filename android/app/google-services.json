@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064284423086",
+    "project_id": "convo-flow-7d391",
+    "storage_bucket": "convo-flow-7d391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064284423086:android:0f60f5e3eee6f28208be3f",
+        "android_client_info": {
+          "package_name": "com.example.convo_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1v0rjko-KCGNs8BDSsFQg6Oq3qcrjDGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
