@@ -78,7 +78,7 @@ class _LoginPageState extends State<LoginPage> {
     return Container(
       height: _deviceHeight * 0.10,
       child: Text(
-        'Chatify',
+        'Convo Flow',
         style: TextStyle(
           color: Colors.white,
           fontSize: 40,
