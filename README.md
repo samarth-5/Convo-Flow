@@ -21,7 +21,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/convo_flow.git
+git clone https://github.com/samarth-5/convo-flow.git
 cd convo_flow
 flutter pub get
 ```
